@@ -10,8 +10,7 @@
 
 (2) Think of the UX design process, do any of the functions or tasks that was discussed resemble anything you do in ur current job?
 
-## ANSWER
-
+## ANSWERS
 - USER RESEARCH: In my line of work as a skin care products producer or cosmetologist, I am always expected to reserch about what my customers will need and how they would prefer it, for different people that have different interests on how their skin should look or depends also on the customers skin condition.
 
 - USER TESTING: After the production of lets say a product on special demand that is rarely produced or produced for the first time, in my line of business the product is meant to be testing by me or the closest people me trustworthy enough to be truthful about the results.
